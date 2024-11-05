@@ -55,14 +55,14 @@ You can use the following tools to convert the data set into the format used by 
 
 Performance Results of Different Networks on the PIDray Test Set
 
-| Method  | Easy/mAP | Hard/mAP | Hidden/mAP | Model Weights                                                |
-| :-----: | :------: | :------: | :--------: | ------------------------------------------------------------ |
+| Method  | Easy/mAP | Hard/mAP | Hidden/mAP | Model Weights                                                          |
+| :-----: | :------: | :------: | :--------: | ------------------------------------------------------------           |
 | RMSCNet |  83.16   |  79.97   |   62.86    | [Checkpoint](https://pan.baidu.com/s/1enYE-uwourwncz7dFeCN3g?pwd=jykz) |
 
 CLCXray Dataset
 
-| Method  | mAP^0.5^ | mAP^0.95^ | mAP  |                        Model Weights                         |
-| :-----: | :------: | :-------: | :--: | :----------------------------------------------------------: |
+| Method  | mAP^0.5^ | mAP^0.95^ | mAP  |                        Model Weights                                   |
+| :-----: | :------: | :-------: | :--: | :----------------------------------------------------------:           |
 | RMSCNet |  72.01   |   70.39   | 62.2 | [Checkpoint](https://pan.baidu.com/s/1m4Og0iiwahji-zBsBe5LYA?pwd=pkea) |
 
 ## Train
