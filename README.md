@@ -33,7 +33,7 @@ RMSCNet is based on yolov8s design, from the convolution and attention mechanism
 
 ​		`pip install ultralytics==8.1.34`
 
-​		`pip install -v .`
+​		`pip install -r requirements.`
 
 ## **Datasets**
 
