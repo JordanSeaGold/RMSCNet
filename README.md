@@ -27,7 +27,7 @@ RMSCNet is based on yolov8s design, from the convolution and attention mechanism
 
 **Git clone RMSCNet**
 
-​		`git clone `
+​		`git clone https://github.com/JordanSeaGold/RMSCNet.git `
 
 **Install  the required dependencies**
 
