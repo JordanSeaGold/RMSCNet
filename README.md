@@ -7,7 +7,7 @@ RMSCNet is based on yolov8s design, from the convolution and attention mechanism
 
 ## Overall Framework
 
-![](./resources/RMSCNet.jpg)![](./resources/RMSCNet.jpg)
+![](./resources/RMSCNet.jpg)
 
 ### Visualization
 
